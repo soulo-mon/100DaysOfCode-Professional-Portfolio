@@ -1,0 +1,418 @@
+body{
+  font-family: 'Montserrat';
+
+}
+
+button :hover{
+  color:#7DE38D;
+}
+
+p{
+  text-align: center;
+}
+
+h5{
+  font-weight: bold;
+}
+
+th{
+  padding-left: 10px;
+}
+
+hr{
+    border: : 1px solid #00242B;
+    width: 10%;
+}
+
+.background{
+  height: 100%;
+}
+
+.intro{
+  font-weight: 100;
+}
+
+.intro_2{
+  font-weight: 700;
+}
+
+.intro_3{
+  font-weight: 100;
+}
+/* Sections */
+
+.colored-section{
+  background-color: #00242B;
+  color: white;
+  height: 600px;
+}
+
+
+.container-fluid{
+  padding: 7% 15%;
+}
+/*
+.logo_image{
+  height: 10%;
+  width: 10%;
+} */
+
+
+.navbar{
+  padding: 0 0 5rem;
+}
+
+.navbar-dark .navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #7DE38D;
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #7DE38D;
+}
+
+.title-image{
+  height: 270px;
+}
+
+.btn{
+  margin-top: 20px;
+}
+
+.btn-primary {
+  border-color: #f9f7f4;
+  background-color: #7DE38D;
+  color:#f9f7f4;
+  /* background-color: #7DE38D; */
+}
+.btn-primary:hover {
+  color: #f9f7f4;
+  background-color:#7DE38D;
+  border-color:#7DE38D;
+}
+
+#about{
+  /* text-align: center; */
+  color: #000000;
+  position: relative;
+
+}
+
+.grey-section{
+  background-color:#908f96;
+  color: white;
+}
+
+
+
+
+
+  /* width: 200px; */
+
+}
+
+.about-me{
+  background-color: #00242B;
+  text-align: center;
+
+}
+
+.white-section{
+  text-align: center;
+  /* font-weight: bold; */
+}
+
+.title{
+  background-color:#7DE38D;
+  color: #00242B;
+  margin-left: 390px;
+  margin-right: 390px;
+  font-weight: 400;
+  font-size: 0.75rem;
+  text-align: center;
+
+
+}
+
+.subtitle{
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+
+.about-text{
+  /* padding: 7% 15%; */
+  text-align: left;
+}
+
+.about-text2{
+  text-align: justify;
+}
+
+
+.color-yb{
+  background-color: #7DE38D;
+  border: 5px solid #7DE38D;
+  color: black;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: 'Ubuntu';
+  margin-left: 180px;
+  margin-top: 30px;
+}
+
+.circle{
+  width: 60px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.center-txt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skill-txt{
+  color: white;
+}
+
+i{
+  color:#7DE38D;
+  padding-bottom: 20px;
+}
+
+.skill-text{
+  font-size: 1rem;
+}
+
+.one{
+  padding-bottom: 2%;
+}
+
+.school{
+  text-align: left;
+}
+
+.university{
+  font-weight: 400;
+  font-size: 0.95rem
+}
+
+.edu{
+  padding-left: 10px;
+}
+
+.about{
+  font-size: 0.75rem;
+  font-weight: normal;
+}
+
+.line{
+  border-left: 1px solid #7DE38D;
+  height: 300px
+}
+
+.my-skill{
+  margin-top: 40px;
+}
+
+.skill{
+  padding-left: 0;
+}
+
+.ski{
+  padding-left: 150%;
+  text-align: right;
+}
+
+.overlay{
+  /* top: 0;
+  left: 0; */
+  /* width: 100%; */
+  height: 67vh;
+  background: rgba(0, 0, 0, 0.67);
+}
+
+.hire-txt{
+  text-align: center;
+  color: white;
+  padding-top: 200px;
+  font-weight: 900;
+  font-size: 1.95rem;
+}
+
+.bk-image{
+  background-image:url("https://pbs.twimg.com/profile_banners/1135673450914299904/1656721425/1080x360");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: blue;
+  height: 30vh;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 400px;
+}
+
+
+.hire-btn{
+  background-color: #7DE38D;
+  border-color: #7DE38D;
+}
+
+.testimonial-text{
+  font-size: 0.80rem;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 0;
+}
+
+.green-section{
+  background-color: #D4F6D9;
+  text-align: left;
+}
+
+.contact-text{
+  text-align: left;
+  font-size: 0.90rem;
+}
+
+.contact-title{
+  margin-bottom: 30px;
+  text-align: left;
+  font-weight: bolder;
+}
+
+.contact{
+  margin-top: 30px;
+  margin-bottom: 15px
+}
+
+.touch{
+  margin-left: 50px;
+}
+
+/* .form input {
+  width: 50%;
+  height: 50%;
+  color: #fff;
+  padding-top: 20px;
+  border: none;
+  background-color: #D4F6D9;
+}
+.form label {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  border-bottom: 1px solid white;
+}
+.form label::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  border-bottom: 3px solid #fce38a;
+  transform: translateX(-100%);
+  transition: all 0.3s ease;
+}
+
+.content-name {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  padding-bottom: 5px;
+  transition: all 0.3s ease;
+}
+.form input:focus {
+  outline: none;
+}
+.form input:focus + .label-name .content-name,
+.form input:valid + .label-name .content-name {
+  transform: translateY(-150%);
+  font-size: 14px;
+  left: 0px;
+  color: #fce38a;
+}
+.form input:focus + .label-name::after,
+.form input:valid + .label-name::after {
+  transform: translateX(0%);
+} */
+
+form{
+  display: block;
+  margin-top: 0em;
+}
+
+.contact-wrapper input {
+  background: #fff;
+  height: 60px;
+  width: 100%;
+  padding: 10px 26px;
+  border: 0;
+  color: #a3a3a3;
+  font-weight: 500;
+  text-transform: capitalize;
+  border-radius: 0px;
+  border: 0;
+  margin-bottom: 30px;
+}
+
+.contact-wrapper textarea {
+    color: #a3a3a3;
+    background: #fff;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    height: 160px;
+    width: 100%;
+    padding: 30px 26px;
+    border: 0;
+    border-radius: 0px;
+    border: 0;
+    margin-bottom: 30px;
+
+}
+.submit{
+    background: #3F845C;
+    width: 100%;
+    height: 60px;
+    padding: 10px 20px;
+    border: 0;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 0px;
+
+}
+
+.eyecon{
+  color: black;
+  margin: 1% 1%
+}
+
+footer{
+  background:#3F845C;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 0px;
+  color: white;
+}
